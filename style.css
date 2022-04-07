@@ -1,0 +1,18 @@
+.container {
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+}
+.rightCol {
+    width: 450px;
+    
+}
+#input, #inputShots{
+    margin-bottom: 10px;
+}
+
+#text {
+    max-width: 450px;
+}
